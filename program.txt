@@ -1,0 +1,12 @@
+ADD r3,r0,r5
+MUL r2,r2,r5
+DIV r1,r5,r0
+ST  (r3),r1
+SUB r6,r3,r2
+LD  r9,(r6)
+JMP label
+ADD r2,r6,r3
+DIV r9,r3,r1
+label
+ADD r7,r0,r0
+SUB r3,r7,r2

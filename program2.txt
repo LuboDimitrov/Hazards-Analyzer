@@ -1,0 +1,6 @@
+SUB r1,r2,r3
+SUB r2,r1,r4
+ADD r1,r1,r2
+ST (r4),r1
+LD r1,(r4)
+MUL r4,r2,r1

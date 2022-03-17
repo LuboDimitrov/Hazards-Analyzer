@@ -1,0 +1,20 @@
+
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(è¦œÅÿÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(£¸õ÷
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(™¾šúÿÿÿÿ
+†
+java:S1319#"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÓØŸ
+‚
+java:S1319#"lThe type of "instructions" should be an interface such as "List" rather than the implementation "ArrayList".(ÓØŸ
+†
+java:S13199"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ë‘„÷
+‚
+java:S13199"lThe type of "instructions" should be an interface such as "List" rather than the implementation "ArrayList".(Ë‘„÷
+‡
+java:S1319U"lThe type of "instructions" should be an interface such as "List" rather than the implementation "ArrayList".(ç“Äùÿÿÿÿ
+f	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¶ê›
+k	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ğí´úÿÿÿÿ
+k	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡„Ùİüÿÿÿÿ
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆßÉƒüÿÿÿÿ8‘Ù·×ö/
